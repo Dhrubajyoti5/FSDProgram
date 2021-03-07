@@ -1,0 +1,7 @@
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1\CSharp_1\bin\Debug\CSharp_1.exe.config
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1\CSharp_1\bin\Debug\CSharp_1.exe
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1\CSharp_1\bin\Debug\CSharp_1.pdb
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1\CSharp_1\obj\Debug\CSharp_1.csprojAssemblyReference.cache
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1\CSharp_1\obj\Debug\CSharp_1.csproj.CoreCompileInputs.cache
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1\CSharp_1\obj\Debug\CSharp_1.exe
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1\CSharp_1\obj\Debug\CSharp_1.pdb
