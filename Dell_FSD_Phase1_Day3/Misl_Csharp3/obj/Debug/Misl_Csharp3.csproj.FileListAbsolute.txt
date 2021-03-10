@@ -1,0 +1,7 @@
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1_Day3\Misl_Csharp3\bin\Debug\Misl_Csharp3.exe.config
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1_Day3\Misl_Csharp3\bin\Debug\Misl_Csharp3.exe
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1_Day3\Misl_Csharp3\bin\Debug\Misl_Csharp3.pdb
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1_Day3\Misl_Csharp3\obj\Debug\Misl_Csharp3.csprojAssemblyReference.cache
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1_Day3\Misl_Csharp3\obj\Debug\Misl_Csharp3.csproj.CoreCompileInputs.cache
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1_Day3\Misl_Csharp3\obj\Debug\Misl_Csharp3.exe
+E:\Project-FSD\DotnetProject\phase1\Dell_FSD_Phase1_Day3\Misl_Csharp3\obj\Debug\Misl_Csharp3.pdb

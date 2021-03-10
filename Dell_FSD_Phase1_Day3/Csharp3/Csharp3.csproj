@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6DFDF3A6-04DF-4E3C-BEF9-5EAABDED8F01}</ProjectGuid>
+    <ProjectGuid>{2694132C-3244-4100-802E-D659E4F3F469}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharp_1</RootNamespace>
-    <AssemblyName>CSharp_1</AssemblyName>
+    <RootNamespace>Csharp3</RootNamespace>
+    <AssemblyName>Csharp3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program4Student.cs" />
-    <Compile Include="Program6Inheritence.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Program2.cs" />
-    <Compile Include="Program3homec.cs" />
-    <Compile Include="program5Property.cs" />
-    <Compile Include="Program7Exception.cs" />
+    <Compile Include="Program2Exception.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

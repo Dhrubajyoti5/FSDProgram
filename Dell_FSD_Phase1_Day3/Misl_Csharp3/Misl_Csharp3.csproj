@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6DFDF3A6-04DF-4E3C-BEF9-5EAABDED8F01}</ProjectGuid>
+    <ProjectGuid>{F2E2C5F5-A1E2-4E14-BC1F-607EDAEF8C5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharp_1</RootNamespace>
-    <AssemblyName>CSharp_1</AssemblyName>
+    <RootNamespace>Misl_Csharp3</RootNamespace>
+    <AssemblyName>Misl_Csharp3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,18 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program4Student.cs" />
-    <Compile Include="Program6Inheritence.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Program2.cs" />
-    <Compile Include="Program3homec.cs" />
-    <Compile Include="program5Property.cs" />
-    <Compile Include="Program7Exception.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

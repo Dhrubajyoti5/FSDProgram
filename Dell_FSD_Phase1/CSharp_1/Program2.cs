@@ -8,6 +8,7 @@ namespace CSharp_1
 {
     class Program2
     {
+        /*
         static void Main(string[] args)
         {
             int userid;
@@ -35,7 +36,7 @@ namespace CSharp_1
             Console.WriteLine("Result2 :" + Result2);
             Console.WriteLine("\n------------------------------\n");
 
-             /* <byte> , <short> and <char> gets converted to int before implementing any calculation */
+             // <byte> , <short> and <char> gets converted to int before implementing any calculation 
 
             // Print User Details 
             try
@@ -70,5 +71,6 @@ namespace CSharp_1
 
             Console.ReadKey();
         }
+        */
     }
 }
