@@ -1,0 +1,10 @@
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\bin\Debug\Project_Inheritence2.exe.config
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\bin\Debug\Project_Inheritence2.exe
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\bin\Debug\Project_Inheritence2.pdb
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\bin\Debug\StudentLibrary2.dll
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\bin\Debug\StudentLibrary2.pdb
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\obj\Debug\Project_Inheritence2.csprojAssemblyReference.cache
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\obj\Debug\Project_Inheritence2.csproj.CoreCompileInputs.cache
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\obj\Debug\Project_Inheritence2.csproj.CopyComplete
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\obj\Debug\Project_Inheritence2.exe
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence2\obj\Debug\Project_Inheritence2.pdb

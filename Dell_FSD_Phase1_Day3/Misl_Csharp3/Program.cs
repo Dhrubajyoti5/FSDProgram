@@ -10,7 +10,7 @@ namespace Misl_Csharp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow World");
+            Console.WriteLine("Hellow Hari");
             Console.ReadKey();
         }
     }

@@ -1,0 +1,7 @@
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence1\bin\Debug\Project_Inheritence1.exe.config
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence1\bin\Debug\Project_Inheritence1.exe
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence1\bin\Debug\Project_Inheritence1.pdb
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence1\obj\Debug\Project_Inheritence1.csprojAssemblyReference.cache
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence1\obj\Debug\Project_Inheritence1.csproj.CoreCompileInputs.cache
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence1\obj\Debug\Project_Inheritence1.exe
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_Inheritence1\obj\Debug\Project_Inheritence1.pdb

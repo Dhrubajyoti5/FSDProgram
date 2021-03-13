@@ -1,0 +1,7 @@
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_AbstractClass1\bin\Debug\Project_AbstractClass1.exe.config
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_AbstractClass1\bin\Debug\Project_AbstractClass1.exe
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_AbstractClass1\bin\Debug\Project_AbstractClass1.pdb
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_AbstractClass1\obj\Debug\Project_AbstractClass1.csprojAssemblyReference.cache
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_AbstractClass1\obj\Debug\Project_AbstractClass1.csproj.CoreCompileInputs.cache
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_AbstractClass1\obj\Debug\Project_AbstractClass1.exe
+E:\Project-FSD\DotnetProject\phase1\CSharp_Day4\Project_AbstractClass1\obj\Debug\Project_AbstractClass1.pdb
