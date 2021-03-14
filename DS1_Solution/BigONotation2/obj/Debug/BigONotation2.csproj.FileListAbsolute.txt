@@ -1,0 +1,6 @@
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\BigONotation2\bin\Debug\BigONotation2.exe.config
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\BigONotation2\bin\Debug\BigONotation2.exe
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\BigONotation2\bin\Debug\BigONotation2.pdb
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\BigONotation2\obj\Debug\BigONotation2.csproj.CoreCompileInputs.cache
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\BigONotation2\obj\Debug\BigONotation2.exe
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\BigONotation2\obj\Debug\BigONotation2.pdb

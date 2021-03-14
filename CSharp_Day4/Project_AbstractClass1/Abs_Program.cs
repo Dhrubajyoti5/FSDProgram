@@ -48,7 +48,7 @@ namespace Project_AbstractClass1
         }
     }
 
-    class Program
+    class Abs_Program
     {
         static void Main(string[] args)
         {

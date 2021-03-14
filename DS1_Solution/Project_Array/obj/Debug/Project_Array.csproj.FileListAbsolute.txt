@@ -1,0 +1,7 @@
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\Project_Array\obj\Debug\Project_Array.csprojAssemblyReference.cache
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\Project_Array\obj\Debug\Project_Array.csproj.CoreCompileInputs.cache
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\Project_Array\bin\Debug\Project_Array.exe.config
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\Project_Array\bin\Debug\Project_Array.exe
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\Project_Array\bin\Debug\Project_Array.pdb
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\Project_Array\obj\Debug\Project_Array.exe
+E:\Project-FSD\DotnetProject\phase1\DS1_Solution\Project_Array\obj\Debug\Project_Array.pdb

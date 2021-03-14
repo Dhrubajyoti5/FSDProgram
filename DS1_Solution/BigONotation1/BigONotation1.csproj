@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4CEEA2C0-4BAA-4613-A358-A5CCEECB6276}</ProjectGuid>
+    <ProjectGuid>{C34F56AA-DF9D-46B8-BE70-362EEAE50E12}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Project_AbstractClass1</RootNamespace>
-    <AssemblyName>Project_AbstractClass1</AssemblyName>
+    <RootNamespace>BigONotation1</RootNamespace>
+    <AssemblyName>BigONotation1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abs_Program.cs" />
+    <Compile Include="ProgramBigO1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
